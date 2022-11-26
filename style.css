@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: cursive;
+}
+
+body{
+    background-image: url(model-gf0e4c8b61_1920.jpg);
+}
+.was-validated .input-group .input-group-text i{
+    color: rgb(23, 94, 23);
+}
+
+.wrapper{
+    border-top: 5px solid green;
+}
